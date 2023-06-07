@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+pyqt5
+pyqtwebengine
+ruamel-yaml
+botocore==1.27.28
+-e .
